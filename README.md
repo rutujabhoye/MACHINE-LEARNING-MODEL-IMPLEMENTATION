@@ -144,3 +144,4 @@ The final model achieved strong results and provided insights into the importanc
 
 #OUTPUT:
 
+<img width="1920" height="1008" alt="Image" src="https://github.com/user-attachments/assets/6c33a442-fb37-4b20-b212-fce06a290ebb" /> 
